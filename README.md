@@ -1,12 +1,6 @@
 # jpa03-vrobot
 
-
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-w21/jpa03-cgaucho
-
-Repo: https://ucsb-cs156-w21/jpa03-vrobot
+Repo: https://github.com/ucsb-cs156-w21/jpa03-vrobot
 
 On Heroku: https://jpa03-vrobot.herokuapp.com
 
