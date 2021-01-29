@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w21/jpa03-vrobot
 
-On Heroku: https://jpa03-vrobot.herokuapp.com
+On Heroku: https://jpa03-vkrishnan.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa03-vrobot
 
